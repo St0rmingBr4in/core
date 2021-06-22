@@ -1,0 +1,15 @@
+{
+  "domain": "rescuetime",
+  "name": "rescuetime",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/rescuetime",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@St0rmingBr4in"
+  ],
+  "iot_class": "cloud_polling"
+}

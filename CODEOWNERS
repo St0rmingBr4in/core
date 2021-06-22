@@ -405,6 +405,7 @@ homeassistant/components/random/* @fabaff
 homeassistant/components/recollect_waste/* @bachya
 homeassistant/components/rejseplanen/* @DarkFox
 homeassistant/components/repetier/* @MTrab
+homeassistant/components/rescuetime/* @St0rmingBr4in
 homeassistant/components/rflink/* @javicalle
 homeassistant/components/rfxtrx/* @danielhiversen @elupus @RobBie1221
 homeassistant/components/ring/* @balloob

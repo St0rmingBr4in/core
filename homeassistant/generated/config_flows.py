@@ -210,6 +210,7 @@ FLOWS = [
     "rachio",
     "rainmachine",
     "recollect_waste",
+    "rescuetime",
     "rfxtrx",
     "ring",
     "risco",
